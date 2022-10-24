@@ -10,4 +10,4 @@ CREATE TABLE orders(
 
   PRIMARY KEY(id),
   FOREIGN KEY(customer_id) REFERENCES customers(id)
-)
+);

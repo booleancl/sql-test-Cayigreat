@@ -1,0 +1,16 @@
+C:/Users/javil/intro_dev/sql-test-Cayigreat/migrations/00_create_datbase.sql
+C:/Users/javil/intro_dev/sql-test-Cayigreat/migrations/01_create_customers.sql
+C:\Users\javil\intro_dev\sql-test-Cayigreat\migrations\02_create_addresses.sql
+C:/Users/javil/intro_dev/sql-test-Cayigreat/migrations/03_create_pizzas.sql
+C:/Users/javil/intro_dev/sql-test-Cayigreat/migrations/04_create_sizes.sql
+C:/Users/javil/intro_dev/sql-test-Cayigreat/migrations/05_create_prices.sql
+C:/Users/javil/intro_dev/sql-test-Cayigreat/migrations/06_create_orders.sql
+C:/Users/javil/intro_dev/sql-test-Cayigreat/migrations/07_create_order_details.sql
+C:/Users/javil/intro_dev/sql-test-Cayigreat/migrations/08_seed_data.sql
+C:/Users/javil/intro_dev/sql-test-Cayigreat/data/customers.csv
+C:/Users/javil/intro_dev/sql-test-Cayigreat/data/addresses.csv
+C:/Users/javil/intro_dev/sql-test-Cayigreat/data/orders.csv
+C:/Users/javil/intro_dev/sql-test-Cayigreat/data/prices.csv
+C:/Users/javil/intro_dev/sql-test-Cayigreat/data/sizes.csv
+C:/Users/javil/intro_dev/sql-test-Cayigreat/data/pizzas.csv
+C:/Users/javil/intro_dev/sql-test-Cayigreat/data/orders_details.csv
