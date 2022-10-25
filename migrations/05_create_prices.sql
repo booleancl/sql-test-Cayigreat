@@ -13,6 +13,5 @@ CREATE TABLE prices(
 
   PRIMARY KEY(id),
   FOREIGN KEY(size_id) REFERENCES sizes(id),
-  FOREIGN KEY (pizza_id)
-  REFERENCES pizzas(id)
+  FOREIGN KEY(pizza_id) REFERENCES pizzas(id)
 );

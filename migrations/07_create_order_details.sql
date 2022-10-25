@@ -14,7 +14,7 @@ CREATE TABLE details(
   updated_at TIMESTAMP,
 
   PRIMARY KEY(id),
-  FOREIGN KEY (order_id) REFERENCES orders(id),
-  FOREIGN KEY (pizza_id) REFERENCES pizzas(id),
-  FOREIGN KEY (size_id) REFERENCES sizes(id)
+  FOREIGN KEY(order_id) REFERENCES orders(id),
+  FOREIGN KEY(pizza_id) REFERENCES pizzas(id),
+  FOREIGN KEY(size_id) REFERENCES sizes(id)
 );

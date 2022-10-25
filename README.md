@@ -25,25 +25,25 @@ Respalde su respuesta con un archivo sql por cada pregunta.
 
 > 1. ¿Cuál es el valor de la pizza más cara?
 
-Respuesta: 
+Respuesta: 11600
 
 > 2. ¿Cuál es el nombre de la pizza más vendida(unidades total)?
 
-Respuesta:
+Respuesta: Deluxe con 121 y Romana con 121
 
 > 3. ¿Cuál es el nombre de la pizza más vendida(ingresos totales)?
 
-Respuesta:
+Respuesta: DEluxe con 1057600 pesos
 
 > 4. Cuál es el tamaño de pizza más vendido?
 
-Respuesta:
+Respuesta: Familiar
 
 > 5. ¿Cuál es el cliente con la compra más grande?
 
-Respuesta
+Respuesta Cary Paucek
 
 > 6. ¿Cuánto fueron los ingresos totales de la pizzería?
 
 Respuesta
-
+4175000
